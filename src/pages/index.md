@@ -5,7 +5,7 @@ image: /img/home-jumbotron.jpg
 heading: Your number one resource for all things Pittsburgh
 subheading: All of Pittsburgh in one site
 mainpitch:
-  title: Why Kaldi
+  title: Hello Alex
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
